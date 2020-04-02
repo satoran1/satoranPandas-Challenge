@@ -1,6 +1,6 @@
 Pandas Project, I have selectd th PyCitySchools Project to analyze district-wide standardized test results using math and reading scores.  The challenge is to aggreate test data to showcase trends in school performances as well as various information on the schools they attend. Your responsibility is to aggregate the data to showcase obvious trends in school performance.
 The final report includes the following:
-
+<!-- 'testing key.  Ignore message' -->
 District Summary
 
 Create a high level snapshot (in table form) of the district's key metrics, including:
